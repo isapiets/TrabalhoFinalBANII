@@ -1,0 +1,12 @@
+[
+  { "cliente": "Diego Rafael", "id_venda": 1, "total": 95.00 },
+  { "cliente": "Bruno Henrique", "id_venda": 2, "total": 60.00 },
+  { "cliente": "João Pedro", "id_venda": 3, "total": 70.00 },
+  { "cliente": "Isabela Mariana", "id_venda": 4, "total": 265.00 },
+  { "cliente": "Gabriela", "id_venda": 5, "total": 169.00 },
+  { "cliente": "Ana Carolina", "id_venda": 6, "total": 60.00 },
+  { "cliente": "Camila Fernandes", "id_venda": 7, "total": 91.00 },
+  { "cliente": "Eliana Beatriz", "id_venda": 8, "total": 413.00 },
+  { "cliente": "Henrique Matheus", "id_venda": 9, "total": 50.00 },
+  { "cliente": "Felipe Augusto", "id_venda": 10, "total": 200.00 }
+]

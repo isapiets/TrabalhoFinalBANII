@@ -1,0 +1,8 @@
+[
+  { "_id": 1, "nome": "Vaso" },
+  { "_id": 2, "nome": "Adubo" },
+  { "_id": 3, "nome": "Flores" },
+  { "_id": 4, "nome": "Sementes" },
+  { "_id": 5, "nome": "Ferramentas" },
+  { "_id": 6, "nome": "Substrato" }
+]

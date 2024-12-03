@@ -1,0 +1,22 @@
+[
+  { "fornecedor": "VasoArte", "produto": "Vaso de vidro" },
+  { "fornecedor": "VasoArte", "produto": "Vaso de plástico" },
+  { "fornecedor": "VasoArte", "produto": "Vaso de cerâmica" },
+  { "fornecedor": "VasoArte", "produto": "Vaso de madeira" },
+  { "fornecedor": "Flores do Campo", "produto": "Flores de corte" },
+  { "fornecedor": "Flores do Campo", "produto": "Flores de jardim" },
+  { "fornecedor": "Flores do Campo", "produto": "Flores perenes" },
+  { "fornecedor": "Flores do Campo", "produto": "Flores anuais" },
+  { "fornecedor": "AgroVerde", "produto": "Adubo orgânico" },
+  { "fornecedor": "AgroVerde", "produto": "Fertilizante químico" },
+  { "fornecedor": "AgroVerde", "produto": "Adubo líquido" },
+  { "fornecedor": "AgroVerde", "produto": "Compostagem" },
+  { "fornecedor": "Jardim & Cia", "produto": "Tesouras de poda" },
+  { "fornecedor": "Jardim & Cia", "produto": "Enxadas" },
+  { "fornecedor": "Jardim & Cia", "produto": "Regadores" },
+  { "fornecedor": "Jardim & Cia", "produto": "Luvas de jardinagem" },
+  { "fornecedor": "TerraFértil", "produto": "Substrato de plantas" },
+  { "fornecedor": "TerraFértil", "produto": "Terra vegetal" },
+  { "fornecedor": "TerraFértil", "produto": "Areia" },
+  { "fornecedor": "TerraFértil", "produto": "Argila expandida" }
+]

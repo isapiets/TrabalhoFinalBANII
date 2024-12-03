@@ -1,0 +1,82 @@
+[
+  {
+    "id_fornecedor": 1,
+    "id_produto": 110
+  },
+  {
+    "id_fornecedor": 1,
+    "id_produto": 111
+  },
+  {
+    "id_fornecedor": 1,
+    "id_produto": 112
+  },
+  {
+    "id_fornecedor": 1,
+    "id_produto": 113
+  },
+  {
+    "id_fornecedor": 2,
+    "id_produto": 330
+  },
+  {
+    "id_fornecedor": 2,
+    "id_produto": 331
+  },
+  {
+    "id_fornecedor": 2,
+    "id_produto": 332
+  },
+  {
+    "id_fornecedor": 2,
+    "id_produto": 333
+  },
+  {
+    "id_fornecedor": 3,
+    "id_produto": 220
+  },
+  {
+    "id_fornecedor": 3,
+    "id_produto": 221
+  },
+  {
+    "id_fornecedor": 3,
+    "id_produto": 222
+  },
+  {
+    "id_fornecedor": 3,
+    "id_produto": 223
+  },
+  {
+    "id_fornecedor": 4,
+    "id_produto": 550
+  },
+  {
+    "id_fornecedor": 4,
+    "id_produto": 551
+  },
+  {
+    "id_fornecedor": 4,
+    "id_produto": 552
+  },
+  {
+    "id_fornecedor": 4,
+    "id_produto": 553
+  },
+  {
+    "id_fornecedor": 5,
+    "id_produto": 660
+  },
+  {
+    "id_fornecedor": 5,
+    "id_produto": 661
+  },
+  {
+    "id_fornecedor": 5,
+    "id_produto": 662
+  },
+  {
+    "id_fornecedor": 5,
+    "id_produto": 663
+  }
+]

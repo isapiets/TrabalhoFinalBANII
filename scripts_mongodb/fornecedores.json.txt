@@ -1,0 +1,57 @@
+[
+  {
+    "_id": 1,
+    "nome": "VasoArte",
+    "rua": "Rua das Cerâmicas",
+    "numero": 101,
+    "bairro": "Bairro Industrial",
+    "cidade": "Joinville",
+    "estado": "Santa Catarina",
+    "email": "arteemvasos@vasoarte.com.br",
+    "telefone": "(47) 99874-3210"
+  },
+  {
+    "_id": 2,
+    "nome": "Flores do Campo",
+    "rua": "Avenida das Flores",
+    "numero": 567,
+    "bairro": "Bairro Jardim",
+    "cidade": "Blumenau",
+    "estado": "Santa Catarina",
+    "email": "florida@floresdocampo.com.br",
+    "telefone": "(47) 99876-1234"
+  },
+  {
+    "_id": 3,
+    "nome": "AgroVerde",
+    "rua": "Estrada do Agricultor",
+    "numero": 88,
+    "bairro": "Zona Rural",
+    "cidade": "São José",
+    "estado": "Santa Catarina",
+    "email": "nutricao@agroverde.com.br",
+    "telefone": "(48) 99988-7766"
+  },
+  {
+    "_id": 4,
+    "nome": "Jardim & Cia",
+    "rua": "Rua das Ferramentas",
+    "numero": 432,
+    "bairro": "Bairro Oficina",
+    "cidade": "Florianópolis",
+    "estado": "Santa Catarina",
+    "email": "verdecomvoce@jardimecia.com.br",
+    "telefone": "(48) 91234-5678"
+  },
+  {
+    "_id": 5,
+    "nome": "TerraFértil",
+    "rua": "Avenida do Solo",
+    "numero": 321,
+    "bairro": "Bairro Campo Verde",
+    "cidade": "Joinville",
+    "estado": "Santa Catarina",
+    "email": "crescimento@terraferil.com.br",
+    "telefone": "(47) 98765-4321"
+  }
+]

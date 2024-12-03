@@ -1,0 +1,170 @@
+[
+  {
+    "_id": 110,
+    "descricao": "Vaso de vidro",
+    "preco_unitario": 30.00,
+    "qtd_estoque": 25,
+    "id_categoria": 1
+  },
+  {
+    "_id": 111,
+    "descricao": "Vaso de plástico",
+    "preco_unitario": 10.00,
+    "qtd_estoque": 150,
+    "id_categoria": 1
+  },
+  {
+    "_id": 112,
+    "descricao": "Vaso de cerâmica",
+    "preco_unitario": 20.00,
+    "qtd_estoque": 40,
+    "id_categoria": 1
+  },
+  {
+    "_id": 113,
+    "descricao": "Vaso de madeira",
+    "preco_unitario": 20.00,
+    "qtd_estoque": 30,
+    "id_categoria": 1
+  },
+  {
+    "_id": 220,
+    "descricao": "Adubo orgânico",
+    "preco_unitario": 15.00,
+    "qtd_estoque": 60,
+    "id_categoria": 2
+  },
+  {
+    "_id": 221,
+    "descricao": "Fertilizante químico",
+    "preco_unitario": 25.00,
+    "qtd_estoque": 80,
+    "id_categoria": 2
+  },
+  {
+    "_id": 222,
+    "descricao": "Adubo Líquido",
+    "preco_unitario": 18.00,
+    "qtd_estoque": 50,
+    "id_categoria": 2
+  },
+  {
+    "_id": 223,
+    "descricao": "Compostagem",
+    "preco_unitario": 12.00,
+    "qtd_estoque": 70,
+    "id_categoria": 2
+  },
+  {
+    "_id": 330,
+    "descricao": "Flores de corte",
+    "preco_unitario": 5.00,
+    "qtd_estoque": 200,
+    "id_categoria": 3
+  },
+  {
+    "_id": 331,
+    "descricao": "Flores de jardim",
+    "preco_unitario": 12.00,
+    "qtd_estoque": 100,
+    "id_categoria": 3
+  },
+  {
+    "_id": 332,
+    "descricao": "Flores perenes",
+    "preco_unitario": 15.00,
+    "qtd_estoque": 80,
+    "id_categoria": 3
+  },
+  {
+    "_id": 333,
+    "descricao": "Flores anuais",
+    "preco_unitario": 10.00,
+    "qtd_estoque": 120,
+    "id_categoria": 3
+  },
+  {
+    "_id": 440,
+    "descricao": "Sementes de flores",
+    "preco_unitario": 8.00,
+    "qtd_estoque": 300,
+    "id_categoria": 4
+  },
+  {
+    "_id": 441,
+    "descricao": "Sementes de hortaliças",
+    "preco_unitario": 5.00,
+    "qtd_estoque": 250,
+    "id_categoria": 4
+  },
+  {
+    "_id": 442,
+    "descricao": "Sementes de árvores",
+    "preco_unitario": 12.00,
+    "qtd_estoque": 150,
+    "id_categoria": 4
+  },
+  {
+    "_id": 443,
+    "descricao": "Sementes de grãos",
+    "preco_unitario": 6.00,
+    "qtd_estoque": 200,
+    "id_categoria": 4
+  },
+  {
+    "_id": 550,
+    "descricao": "Tesouras de poda",
+    "preco_unitario": 25.00,
+    "qtd_estoque": 50,
+    "id_categoria": 5
+  },
+  {
+    "_id": 551,
+    "descricao": "Enxadas",
+    "preco_unitario": 35.00,
+    "qtd_estoque": 40,
+    "id_categoria": 5
+  },
+  {
+    "_id": 552,
+    "descricao": "Regadores",
+    "preco_unitario": 20.00,
+    "qtd_estoque": 60,
+    "id_categoria": 5
+  },
+  {
+    "_id": 553,
+    "descricao": "Luvas de jardinagem",
+    "preco_unitario": 10.00,
+    "qtd_estoque": 100,
+    "id_categoria": 5
+  },
+  {
+    "_id": 660,
+    "descricao": "Substrato de plantas",
+    "preco_unitario": 15.00,
+    "qtd_estoque": 80,
+    "id_categoria": 6
+  },
+  {
+    "_id": 661,
+    "descricao": "Terra vegetal",
+    "preco_unitario": 8.00,
+    "qtd_estoque": 120,
+    "id_categoria": 6
+  },
+  {
+    "_id": 662,
+    "descricao": "Areia",
+    "preco_unitario": 20.00,
+    "qtd_estoque": 50,
+    "id_categoria": 6
+  },
+  {
+    "_id": 663,
+    "descricao": "Argila expandida",
+    "preco_unitario": 12.00,
+    "qtd_estoque": 70,
+    "id_categoria": 6
+  }
+]
